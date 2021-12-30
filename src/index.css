@@ -11,3 +11,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.App {
+  width: 50%;
+  margin: 10% auto;
+  text-align: center;
+}
+
+.currency__container span {
+  border: 1px solid #000;
+  display: inline-block;
+  width: 150px;
+  padding: 15px;
+}
